@@ -1,0 +1,1 @@
+This is the template of the TiEcon App planned to be used by TiE Nagpur During TiEcon2015
